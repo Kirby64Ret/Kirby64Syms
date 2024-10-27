@@ -234,6 +234,7 @@ functions = [
     { name = "func_80007944", vram = 0x80007944, size = 0x54 },
     { name = "func_80020EA8", vram = 0x80020EA8, size = 0xC },
     { name = "__osPackEepReadData", vram = 0x80039124, size = 0x8C },
+    { name = "__osSpSetPc", vram = 0x800391F0, size = 0x34 },
     { name = "func_8002B214", vram = 0x8002B214, size = 0x24 },
     { name = "func_8000A640", vram = 0x8000A640, size = 0x44 },
     { name = "func_8002C990", vram = 0x8002C990, size = 0x20 },
